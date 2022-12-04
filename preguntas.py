@@ -6,8 +6,6 @@ En este laboratio se estimarán los parámetros óptimos de un modelo de regresi
 polinomial de grado `n`.
 
 """
-
-
 def pregunta_01():
     """
     Complete el código presentado a continuación.
@@ -33,7 +31,6 @@ def pregunta_01():
 
 def pregunta_02():
 
-    # Importe numpy
     # Importe numpy
     import numpy as np
 
